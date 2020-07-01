@@ -1067,6 +1067,7 @@
    #:pane-viewport-region               ;generic function
    #:panep                              ;predicate
    #:parse-text-style                   ;function
+   #:part-type                          ;presentation type parameter
    #:partial-command-p                  ;function
    #:partial-completers                 ;presentation type option
    #:path                               ;protocol class
